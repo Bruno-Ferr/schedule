@@ -59,6 +59,7 @@ export default function Register() {
 
       console.error(err)
     }
+  }
 
   return (
     <Container>
@@ -101,4 +102,3 @@ export default function Register() {
     </Container>
     )
   }
-}
